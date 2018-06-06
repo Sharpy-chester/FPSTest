@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: f771245e139c2074781805ed6bb2b7ff
+timeCreated: 1488567595
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box002
+    100002: Box003
+    100004: ceiling
+    100006: floor
+    100008: //RootNode
+    100010: outsideWalls
+    100012: room1bars
+    100014: room1bars001
+    100016: room1bars002
+    100018: room1bars003
+    100020: room1walls
+    100022: room1walls001
+    100024: room1walls002
+    100026: room1walls003
+    100028: room1walls004
+    100030: room2bars
+    100032: room2bars001
+    100034: room2bars002
+    100036: room2bars003
+    100038: room2walls
+    100040: room2walls001
+    100042: room2walls002
+    100044: room2walls003
+    100046: room2walls004
+    400000: Box002
+    400002: Box003
+    400004: ceiling
+    400006: floor
+    400008: //RootNode
+    400010: outsideWalls
+    400012: room1bars
+    400014: room1bars001
+    400016: room1bars002
+    400018: room1bars003
+    400020: room1walls
+    400022: room1walls001
+    400024: room1walls002
+    400026: room1walls003
+    400028: room1walls004
+    400030: room2bars
+    400032: room2bars001
+    400034: room2bars002
+    400036: room2bars003
+    400038: room2walls
+    400040: room2walls001
+    400042: room2walls002
+    400044: room2walls003
+    400046: room2walls004
+    2300000: Box002
+    2300002: Box003
+    2300004: ceiling
+    2300006: floor
+    2300008: outsideWalls
+    2300010: room1bars
+    2300012: room1bars001
+    2300014: room1bars002
+    2300016: room1bars003
+    2300018: room1walls
+    2300020: room1walls001
+    2300022: room1walls002
+    2300024: room1walls003
+    2300026: room1walls004
+    2300028: room2bars
+    2300030: room2bars001
+    2300032: room2bars002
+    2300034: room2bars003
+    2300036: room2walls
+    2300038: room2walls001
+    2300040: room2walls002
+    2300042: room2walls003
+    2300044: room2walls004
+    3300000: Box002
+    3300002: Box003
+    3300004: ceiling
+    3300006: floor
+    3300008: outsideWalls
+    3300010: room1bars
+    3300012: room1bars001
+    3300014: room1bars002
+    3300016: room1bars003
+    3300018: room1walls
+    3300020: room1walls001
+    3300022: room1walls002
+    3300024: room1walls003
+    3300026: room1walls004
+    3300028: room2bars
+    3300030: room2bars001
+    3300032: room2bars002
+    3300034: room2bars003
+    3300036: room2walls
+    3300038: room2walls001
+    3300040: room2walls002
+    3300042: room2walls003
+    3300044: room2walls004
+    4300000: floor
+    4300002: outsideWalls
+    4300004: room2walls004
+    4300006: room2walls003
+    4300008: room2walls002
+    4300010: room2walls001
+    4300012: room2walls
+    4300014: room2bars003
+    4300016: room2bars002
+    4300018: room2bars001
+    4300020: room2bars
+    4300022: room1walls004
+    4300024: room1walls003
+    4300026: room1walls002
+    4300028: room1walls001
+    4300030: room1walls
+    4300032: room1bars003
+    4300034: room1bars002
+    4300036: room1bars001
+    4300038: room1bars
+    4300040: ceiling
+    4300042: Box002
+    4300044: Box003
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
